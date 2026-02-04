@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/edition-Professional-yellow?style=flat" alt="edition"/></a>
 <a href="#"><img src="https://img.shields.io/badge/system-macOS-blue?style=flat" alt="system"/></a>
 
-<img src="https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/36e11bfa-9b26-11e6-9fdb-00163ed833e7/1456574398/mkvtoolnix-screenshot.jpg" width="824" alt="Interface"/>
+<img src="https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/36e11bfa-9b26-11e6-9fdb-00163ed833e7/2474624721/mkvtoolnix-screenshot.jpg" width="424" alt="Interface"/>
 
 </div>
 
